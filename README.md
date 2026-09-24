@@ -6,6 +6,15 @@ The solution transforms ticket-level operational data into a four-page managemen
 
 ---
 
+## Live Interactive Dashboard
+
+Explore the full interactive Power BI report:
+
+**[View the Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2E2OTk0ZWQtNzE4OC00YWQ2LTljZTgtYWQ2ZDE0NGNhMzBjIiwidCI6ImE4ZmVlMjljLTNmNDktNDdmZC1iOTRiLWM3MzEwNjdhMTkwNiJ9)**
+
+The interactive report includes four management views covering Leadership Overview, Internal Operations, SLA Risk, and Workload & Capacity.
+
+
 ## Dashboard Preview
 
 ![Leadership Overview](documentation/images/01-Leadership-Overview.PNG)
